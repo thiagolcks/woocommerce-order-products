@@ -7,6 +7,7 @@
  * Author: Thiago Locks
  * Author URI: https://github.com/thiagolcks
  * License: GPL2
+ * GitHub Plugin URI: https://github.com/thiagolcks/woocommerce-order-products
  */
 
 // Add the column title
